@@ -22,5 +22,5 @@ int main(){
 	 cout<<text2<<"  ";
 	 }
 	 count+=1;}
-    return 0;
+    return 0; 
 }
